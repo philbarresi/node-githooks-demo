@@ -1,3 +1,5 @@
-const test = ["foo", "bar", "bizz", "buzz"];
+var test = ["foo", "bar", "bizz", "buzz"];
 
 console.log("this", "is", "a", "test", test);
+
+console.log("This is another line");
